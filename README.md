@@ -3,11 +3,17 @@
 A robust, full-stack Task Management application built as a part of the **DecodeLabs Industrial Training Track (Project 3)**. This milestone marks the structural evolution of the application from temporary in-memory arrays to permanent relational data persistence using an integrated data vault.
 
 ---
+## 📷 Application Preview & Interface Walkthrough
 
-![Task Manager Application Dashboard](./preview1.jpeg)
-![Task Manager Application Dashboard](./preview2.jpeg)
-![Task Manager Application Dashboard](./preview3.jpeg)
-![Task Manager Application Dashboard](./preview4.jpeg)
+<p align="center">
+  <img src="./images/preview1.jpeg" width="45%" alt="Dashboard Overview" />
+  <img src="./images/preview2.jpeg" width="45%" alt="Task Creation" />
+</p>
+<p align="center">
+  <img src="./images/preview3.jpeg" width="45%" alt="Database Persistence" />
+  <img src="./images/preview4.jpeg" width="45%" alt="Validation Controls" />
+</p>
+
 ---
 
 ## 🚀 Architectural Overview
