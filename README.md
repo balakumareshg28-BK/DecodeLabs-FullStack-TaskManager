@@ -4,11 +4,10 @@ A robust, full-stack Task Management application built as a part of the **Decode
 
 ---
 
-![Task Manager Application Dashboard](images/preview1.jpg)
-![Task Manager Application Dashboard](images/preview2.jpg)
-![Task Manager Application Dashboard](images/Preview3.jpg)
-![Task Manager Application Dashboard](images/Preview4.jpg)
-
+![Task Manager Application Dashboard](./preview1.jpeg)
+![Task Manager Application Dashboard](./preview2.jpeg)
+![Task Manager Application Dashboard](./preview3.jpeg)
+![Task Manager Application Dashboard](./preview4.jpeg)
 ---
 
 ## 🚀 Architectural Overview
