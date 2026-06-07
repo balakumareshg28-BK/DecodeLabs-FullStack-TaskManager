@@ -4,6 +4,13 @@ A robust, full-stack Task Management application built as a part of the **Decode
 
 ---
 
+![Task Manager Application Dashboard](images/preview1.jpeg)
+![Task Manager Application Dashboard](images/preview2.jpeg)
+![Task Manager Application Dashboard](images/Preview3.jpeg)
+![Task Manager Application Dashboard](images/Preview4.jpeg)
+
+---
+
 ## 🚀 Architectural Overview
 
 This project bridges user interaction, business logic processing, and relational storage together into a cohesive full-stack pipeline:
